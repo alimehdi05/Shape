@@ -1,0 +1,5 @@
+D:\Alis\Server\Shape\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Alis\Server\Shape\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alis\Server\Shape\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Alis\Server\Shape\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Alis\Server\Shape\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
